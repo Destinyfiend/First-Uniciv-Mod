@@ -1,0 +1,40 @@
+[
+	//Spectator
+	{
+		"name": "Spectator",
+		"outerColor": [255,255,255]
+//		"innerColor": [255,255,255]
+	},
+
+	{
+		//nations
+		"name": "Ailech",
+		"leaderName": "Brian of Armagh",
+		"adjective": ["Ailechian"],
+		"startBias": ["Avoid [Tundra]","Avoid [Desert]","[Coast]"],
+		"preferredVictoryType": "Cultural",
+
+		"startIntroPart1": "",
+		"startIntroPart2": "",
+
+		"declaringWar": "Your villainy will be felled!",
+		"attacked": "I will not sit idol!",
+		"defeated": "Can you truly call this victory?",
+		"introduction": "Peace from Ailech, let us coexist.",
+
+		"neutralHello": "Peace from Ailech!",
+		"hateHello": "Do make it quick.",
+
+		"tradeRequest": "Would you like to form a trade agreement? I have reason to believe it will benefit us all!",
+
+		"outerColor": [89,12,36],
+		"innerColor": [300,249,255],
+		"favoredReligion": "Buddhism",
+		"uniqueName": "Eternal Faith",
+		"uniques": ["Start with [Great Prophet]", Start with [Writing]", "[Great Prophet] is earned [100]% faster"], "May choose [4] additional belief(s) of any type when [founding] a religion"],
+		"cities": ["Ailech","Armagh","Cashel","Letterkenny","Waterford","Cork","Coisfarragh","Bolcain","Dublin","Belfast",
+			"Duanin","Culaihnford","Eire","Mashel","Limerick","Galway","Drogheda","Dundalk","Bray","Navan",
+			"Kilkenny","Ennis","Carlow","Tralee","Newbridge","Portlaoise","Balbriggan","Naas","Athlone","Mullingar",
+			"Celbridge","Wexford","Sligo","Greystones","Clonmel","Kilarney","Arklow","Ashbourne","Mallow","Castlebar"],
+        "spyNames": ["Aiden", "Kyle", "Saibhan", "Owain", "Arden", "Uther", "Machuill", "Schahe", "Olwen", "Gil"]
+	
